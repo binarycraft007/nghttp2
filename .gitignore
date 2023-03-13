@@ -54,3 +54,6 @@ _VC_ROOT/
 .depend.MSVC
 *.pyd
 *.egg-info/
+
+zig-out
+zig-cache
